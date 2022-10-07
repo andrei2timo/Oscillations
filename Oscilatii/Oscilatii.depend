@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1509399292 source:d:\mihaita bosu\oscilatii\main.cpp
+	<iostream>
+	<cmath>
+	<graphics.h>
+	<cstdio>
+	<cstring>
+
+1510497188 source:d:\oji\codeblocks proiecte\oscilatii\main.cpp
+	<iostream>
+	<cmath>
+	<graphics.h>
+	<cstdio>
+	<cstring>
+
+1510497188 source:c:\users\suvit\desktop\oscilatii\main.cpp
+	<iostream>
+	<cmath>
+	<graphics.h>
+	<cstdio>
+	<cstring>
+
+1520360505 source:d:\clasa a 11-a\fizica\oscilatii\main.cpp
+	<iostream>
+	<cmath>
+	<graphics.h>
+	<cstdio>
+	<cstring>
+
