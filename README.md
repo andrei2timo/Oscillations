@@ -51,3 +51,18 @@ Refer to the documentation within the source files for more details on the avail
 The `examples` directory contains sample code that demonstrates the usage of this library. You can explore these examples to get started and understand how to utilize the provided functionality.
 
 To compile and run an example, navigate to the example's directory and use the provided Makefile or compile manually as described in the installation section.
+
+## Contributing
+
+Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
+
+When contributing, make sure to follow the existing coding style and include appropriate documentation and test cases for your changes.
+
+## License
+
+This project is licensed under the MIT License. Feel free to use, modify, and distribute the code as permitted by the license.
+
+```arduino
+
+Please review the README file to ensure it meets your requirements and make any necessary adjustments before using it for your Git repository.
+```
